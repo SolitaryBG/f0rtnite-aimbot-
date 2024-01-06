@@ -1,4 +1,3 @@
-, 
 
 ***
 ## Information 
@@ -16,7 +15,7 @@ Fecurity - one of not many internal cheats that shows a good result, has a large
 
 
 
-## The main functions of Cheat Coffee External
+## The main functions of Fecurity cheat
 Aimbot:
 ```
 Aim at shoot;
@@ -54,6 +53,7 @@ Misc:
 ```
 Override FOV;
 Fov value;
+```
 
 ## Instructions for the installation and launch of the reading
 
@@ -63,6 +63,6 @@ Fov value;
 
 3 Launch Fortnite
 
-4 Run the cheat( Coffee.exe )
+4 Run the cheat( Loader.exe )
 
 5 Enjoy the game!
